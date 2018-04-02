@@ -1,6 +1,6 @@
 FEEDBACK
 
-Line 7 Typos -> ‘Celcius’, ’receive’ and ‘Fahrenheit’
+Line 7 Typos -> ’receive’ and ‘Fahrenheit’
 
 Line 12 Typos
 
